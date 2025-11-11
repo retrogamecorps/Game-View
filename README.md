@@ -1,5 +1,9 @@
 # Game View
-A basic <a href="https://github.com/shauninman/MinUI">MinUI</a> pak to force a limited game experience.  The revolution is simple.
+The idea behind this project is to limit the amount of games you can play on your handheld, instead of endlessly browsing.  Pick five games, throw up some boxart, and live a satisfied life.  Game View removes the `system view` from MinUI (where you browse to system THEN the game), and instead gives you a clean `game view`.  See what we did there?<br>
+
+This project is meant to be a little painful.  If you want to swap out one game for another, you have to remove the card from your device, then plug it into a PC and replace the games.  Ugh, work.  We are hoping this pain point will prevent you from swapping out games to often, so you will <i>finish the darn games on your device.</i><br>
+
+Everything else is intentionally simple, as MinUI was originally designed. No Wi-Fi, no configuration.  It started as a neat manual trick <a href="https://github.com/tenlevels">Tenlevels</a> showed me, and then I had the idea to limit it to just five games, and then he made a pak to automate the experience.
 
 ### Installation
 
