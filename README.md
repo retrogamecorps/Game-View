@@ -14,3 +14,4 @@ A basic <a href="https://github.com/shauninman/MinUI">MinUI</a> pak to force a l
 ### Credits!
 - Shaun Inman for making <a href="https://github.com/shauninman/MinUI">MinUI</a>
 - <a href="https://github.com/tenlevels">Tenlevels</a> for making Game View after much poking and prodding from yours truly
+- <a href="https://github.com/ryanmsartor">Ry</a> for brainstorming with Tenlevels and just being a nice fella
